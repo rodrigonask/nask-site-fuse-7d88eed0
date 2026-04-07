@@ -1,0 +1,21 @@
+{
+  "brand_name": "{{BRAND_NAME}}",
+  "colors": {
+    "primary": "#3b82f6",
+    "accent": "#10b981",
+    "background": "#ffffff",
+    "text": "#1f2937"
+  },
+  "tracking": {
+    "meta_pixel_id": null,
+    "google_tag_id": null
+  },
+  "form": {
+    "enabled": false,
+    "fields": ["name", "email", "phone"],
+    "action_url": null
+  },
+  "pages": [
+    { "slug": "index", "title": "Home", "file": "index.html" }
+  ]
+}
